@@ -14,6 +14,7 @@
 ## Education
 
 📚 Currently enrolled in Micro Bachelors - Full Stack Development at IBM
+
 🎓 Pursuing an Associate degree in Engineering at Broward College, Florida
 
 ## Achievements
